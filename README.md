@@ -1,6 +1,6 @@
 # Natália (or Nana) | Backend Developer
 
-> Profile picture: Haechan
+> Profile picture: Lee Haechan
 
 ---
 
